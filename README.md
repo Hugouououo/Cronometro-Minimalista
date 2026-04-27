@@ -1,11 +1,12 @@
 ### Funcionalidades:
 - [X] Funções de _Pausar_, _Continuar_ e _Reiniciar_
-- [ ] Alternar entre 3 ou mais temas
-	- [X] (Escuro) Verde - Padrão
-	- [ ] (Escuro) Roxo
-	- [ ] (Escuro) Vermelho
-	- [ ] (Claro) Azul
-	- [ ] (Claro) Laranja
+- [ ] Botão/menu para alternar entre 3 ou mais temas
+	- [X] Verde (Padrão)
+	- [X] Roxo
+	- [X] Vermelho
+	- [X] Azul
+	- [X] Laranja
+	- [ ] Liquid Glass (em breve)
 - [ ] Sons 
 	- [ ] E botão para desativá-los
 - [ ] Guardar preferências no _cache_ do navegador
