@@ -58,12 +58,6 @@ resetButton.addEventListener("click", ()=>{
 
 
 
-
-
-
-
-
-
 // Source - https://stackoverflow.com/a/2998822
 // Posted by InfinitiesLoop, modified by community. See post 'Timeline' for change history
 // Retrieved 2026-04-22, License - CC BY-SA 4.0
