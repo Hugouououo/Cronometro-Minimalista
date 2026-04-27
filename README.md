@@ -11,7 +11,6 @@
 - [ ] Guardar preferências no _cache_ do navegador
 
 ### Bugs:
-- [ ] Trava depois de ±40 segundos em segundo plano
-	Provavelmente por inativididade da guia pelo navegador
+- [ ] Trava depois de ±40 segundos em segundo plano, provavelmente pela inativididade da guia
 - [ ] Tem um limite de _23:59:59_
 - [ ] _:hover_ nos botões não tem transição completa 
