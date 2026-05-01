@@ -14,7 +14,6 @@ O projeto explora como o navegador gerencia ciclos de execução e estados de in
 - [ ] Sons 
 	- [ ] Botão para desativá-los
 - [ ] Guardar preferências no `localStorage`
-
 ### Bugs:
 - [X] Trava depois de ±40 segundos em segundo plano, provavelmente pela inativididade da guia.
 	- Conclusão: O bug ocorre devido às limitações do *throttling* (inatividade) de guias do navegador. A questão seria solucionada com o uso de `Date` para calcular o tempo no JavaScript.
