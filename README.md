@@ -12,8 +12,8 @@ O projeto explora como o navegador gerencia ciclos de execução e estados de in
 	- [X] Azul
 	- [X] Laranja
 - [ ] Sons 
-	- [ ] E botão para desativá-los
-- [ ] Guardar preferências no `localStorage`.
+	- [ ] Botão para desativá-los
+- [ ] Guardar preferências no `localStorage`
 
 ### Bugs:
 - [X] Trava depois de ±40 segundos em segundo plano, provavelmente pela inativididade da guia.
